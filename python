@@ -1,0 +1,5 @@
+print("hello")
+n=29
+m=30
+sum=n+m
+print("sum of 2 number is ",sum)
